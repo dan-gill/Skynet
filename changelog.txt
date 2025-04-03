@@ -1,3 +1,8 @@
+April 3, 2025
+  - REMOVED: (to fix podcast functionality)
+      https://voipbl.org/update
+        (previously blocked pdst.fm, necessary for certain podcasts)
+
 March 31, 2025
   - REMOVED: (to support privacy-focused usage)
       https://iplists.firehol.org/files/dm_tor.ipset
